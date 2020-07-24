@@ -5,6 +5,10 @@ date: "7/23/2020"
 output:
  rmdformats::readthedown:
     highlight: espresso
+    lightbox: true
+    gallery: true
+    thumbnails: false
+    use_bookdown: false
 ---
 
 **Welcome to the William Norfolk first committee meeting website!**   
@@ -71,12 +75,17 @@ knitr::include_graphics(c("./protometer.jpg", "./proto_dis.jpg"))
 ```
 
 ## Upcoming Work
-Following the completion of the evaluation study, the prototype meter will be employed to measure the growth tolerance of _V. alginolyticus_ as described above. Tentatively, temperature responses will be measured from 20$^\circ$-40$^\circ$, salinity responses will be measured from 0ppt-40ppt, and nutrient responses will be measured for minimal-enriched media. Combinatory investigations of the optimal levels for each factor will also be measured to determine if additive responses are observed. From these data a semi-quantitative risk scale will be developed to classify the potential for _V. alginolyticus_ infection in relation to ambient abiotic conditions. 
+Following the completion of the evaluation study (tentatively beginning in August 2020), the prototype meter will be employed to measure the growth tolerance of _V. alginolyticus_ as described above. Temperature responses will be measured at 2$^\circ$ intervals from 20$^\circ$-40$^\circ$, salinity responses will be measured at 4ppt intervals from 0ppt-40ppt, and nutrient responses will be measured for minimal-enriched media (specific levels pending). Combinatory investigations of the optimal levels for each factor will also be measured to determine if additive responses are observed. From these data a semi-quantitative risk scale will be developed to classify the potential for _V. alginolyticus_ infection in relation to ambient abiotic conditions. 
+
+Pilot results (from an earlier version of the prototype) suggest the meter is sensitive enough to record subtle differences in bacterial growth kinetics in response to changing temperatures (Fig 3).
+```{r combo curves, fig.cap="Figure 3: Pilot growth meter outputs for Vibrio alginolyticus at 30C, 35C and 38C temperatures. Plot one shows the raw data points generated from the meter and plot two shows the best fit for each scenario.", fig.hold='hold', out.height = "50%", out.width = "50%", fig.show='hold', echo=FALSE}
+knitr::include_graphics(c("combo1.png", "combo2.png"))
+```
 
 ## Project Deliverables
-#### Research Objectives
+#### Research Goals
 1. Develop a real-time optical density meter using the Arduino platform.  
-2. Determine the optimal and lethal abiotic limits of _V. alginolyticus_ in relation to temperature, salinity, and nutrient content.  
+2. Determine the optimal and lethal abiotic limits of _V. alginolyticus_ for temperature, salinity, and nutrient content.  
 3. Develop a working model of _V. alginolyticus_ infection risk based on abiotic conditions.  
 
 #### Proposed Publications 
