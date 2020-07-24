@@ -1,5 +1,5 @@
 ---
-title: "Norfolk_Committee_Meeting_1"
+title: "William Norfolk Committee Meeting #1"
 author: "William Norfolk"
 date: "7/23/2020"
 output:
@@ -7,26 +7,91 @@ output:
     highlight: espresso
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+**Welcome to the William Norfolk first committee meeting website!**   
+
+Due to the fact that COVId-19 has substantially limited our ability to meet in person, I thought it would be easier to generate a short informational website to provide some background and research updates prior to our Zoom meeting. The subsections below provide details about my program of study, dissertation research, and any additional projects I have or currently am contributing to. 
+
+# General Information
+
+Information | Name
+------------- | -------------
+Student | William Norfolk
+Degree Program | PhD Environmental Health Science
+Adviser | Dr. Erin Lipp (EHS)
+Committee Member | Dr. Franklin Leach (EHS)
+Committee Member | Dr. Jim Porter (Ecology)
+Committee Member | Dr. Bill Fitt (Ecology)
+
+# Program of Study
+The table below shows a breakdown of my tentative program of study for the completion of my degree. The table includes all coursework completed from Fall 2019 to Summer 2020 as well as any additional required courses to be completed in future semesters (indicated by _italics_).
+
+Requirement | Course Code | Course Taken | Credits | Semester Completed | Grade Received
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
+Intro to EHS | EHSC 7010 | Intro to EHS | 3 | Fall 2019 | A
+Public Health | PBHL 7100 | Public Health | 3 | Spring 2020 | A
+Adv Topics EHS | EHSC 8010 | Adv Topics EHS | 3 | Fall 2020 | _upcoming_
+Responsible Conduct of Research | GRSC 8550 | Responsible Conduct of Research | 1 | Spring 2020 | A
+Proseminar EHS | EHSC 8050 | Proseminar EHS | 1 | Spring 2020 | A
+EHS Grad Seminar (3x semesters) | EHSC 8030 | EHS Grad Seminar|  1 (each semester) | Fall 2019, Spring 2020, Fall 2020 | SA, SA, _upcoming_
+Biostatistics | EPID/BIOS 8XXX | Modern Applied Data Analysis (EPID 8060E) | 3 | Fall 2019 | A
+Doctoral Research | EHSC 9300 | Doctoral Research | 3 (required) | All | SA
+Elective | EHSC 8XXX | Environmental Genomics (EHSC 8460) | 3 | Fall 2019 | A
+Elective | EHSC 8XXX | Adv Environmental Chemistry (EHSC 8650) | 4 | Spring 2020 | A
+Elective | _Any_ 8XXX | Computational Workshop (ECOL 8540) | 4 | Summer 2020 | _pending posting_
+EHS Exit Seminar | EHSC 8150 | EHS Exit Seminar | 1 | _final semester_ | _upcoming_
+
+#### Course Summary  
+* Total credits completed to date: 54  
+* Total credits completed to date at 8000 Level: 18 (excluding Doctoral Research)  
+* Total credits completed to date at 7000 Level: 6  
+* Total doctoral research credits completed (to date): 30  
+* **Courses Remaining:** Advanced Topics EHS, EHS Graduate Seminar (1x semester), and EHS Exit Seminar  
+* **Anticipated semester for course completion:** Fall 2020 (excluding Exit Seminar)
+
+
+# Chapter 1 {.tabset}
+## Summary
+### Abiotic tolerance characterization of _Vibrio alginolyticus_ and the implications for disease transmission.
+
+Anthropogenic climate change and habitat disruption have drastically altered the abiotic factors that mediate coastal ecosystems. Alterations to these abiotic factors can have cascading effects on the microbial ecology of the system and can promote the proliferation of potentially harmful bacterial species when optimal conditions are met. _Vibrio_ is a ubiquitous taxon of heterotrophic marine bacteria commonly associated with human and environmental (non-human) diseases. A highly adaptive genus, _Vibrio_ are known to respond synergistically to increases in water temperature and nutrient availability (particularly iron). Optimal growth conditions can create _Vibrio_ "blooms" and thus increase the risk of infection. _Vibrio alginolyticus_ is an emerging pathogen within the taxon known to cause human illness via wound/ear infection and environmental illness in filter feeding marine invertebrates (primarily associated with the shellfish industry). Research is needed to characterize the physiological limitations of _V. alginolyticus_ to better understand the abiotic conditions that are favorable to the development/transmission of disease. 
+
+This work aims to characterize the viable and optimal abiotic condition levels for _V. alginolyticus_ at a range of temperature, salinity, and nutrient availability. Characterizations will be measured _in situ_ using an optical density meter to construct bacterial growth curves and illustrate changes in the growth kinetics of _V. alginolyticus_ at the given condition. The results of these characterizations will be used to develop a working model of _V. alginolyticus_ disease risk.
+
+## Progress Thus Far
+For this research, a prototype optical density meter was constructed to optimize and automate the measurement of growth kinetics. Pictured below (Fig 1), the prototype meter runs on the Arduino platform (a commercially available open source electronics prototyping board) to collect real-time growth data from a liquid bacterial culture. An LED light source (600nm) passes a beam of light through the growing sample, and the transmitted light is quantified by a detector downstream. The level of transmitted light is logarithmically related to the bacterial concentration according to Beer-Lampert's Law and can be used to quantify growth kinetics when measured over a standard growing period. 
+
+Currently, the meter has been built and optimized for usage in the laboratory. A tangential evaluation/methods development study was conducted to test the efficacy of the meter measuring the growth of _Vibrio alginolyticus_, _Salmonella_, and _Escherichia coli_. The results of this study indicate that the prototype is a viable measurement device for bacterial optical density. Three representative growth curves generated from the meter can be viewed below (Fig 2). 
+
+```{r protometer, fig.cap="Figure 1: Prototype Arduino-based optical density meter. Disassembled prototype meter components.", fig.hold='hold', out.height = "40%", out.width = "40%", fig.align='center', fig.show='hold', echo=FALSE}
+knitr::include_graphics(c("./protometer.jpg", "./proto_dis.jpg"))
 ```
 
-## R Markdown
-
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
+```{r curves, fig.cap="Figure 2: .", fig.hold='hold', out.height = "40%", out.width = "40%", echo=FALSE}
+#knitr::include_graphics(c("./protometer.jpg", "./protometer.jpg", "./protometer.jpg"))
 ```
 
-## Including Plots
+## Upcoming Work
+Following the completion of the evaluation study, the prototype meter will be employed to measure the growth tolerance of _V. alginolyticus_ as described above. Tentatively, temperature responses will be measured from 20$^\circ$-40$^\circ$, salinity responses will be measured from 0ppt-40ppt, and nutrient responses will be measured for minimal-enriched media. Combinatory investigations of the optimal levels for each factor will also be measured to determine if additive responses are observed. From these data a semi-quantitative risk scale will be developed to classify the potential for _V. alginolyticus_ infection in relation to ambient abiotic conditions. 
 
-You can also embed plots, for example:
+## Project Deliverables
+#### Research Objectives
+1. Develop a real-time optical density meter using the Arduino platform.  
+2. Determine the optimal and lethal abiotic limits of _V. alginolyticus_ in relation to temperature, salinity, and nutrient content.  
+3. Develop a working model of _V. alginolyticus_ infection risk based on abiotic conditions.  
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+#### Proposed Publications 
+1. Methods development and evaluation of the prototype optical density meter.  
+_Manuscript in progress_  
+_Target journal: PeerJ_    
+2. Physiological characterization of _V. alginolyticus_.
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+# Chapter 2
+### Zooplankton-mediated transmission of _Vibrio alginolyticus_.
+
+# Chapter 3
+### Chemical characterization of _Vibrio alginolyticus_ and implications for disease transmission. 
+
+# Additional Project Contributions
+
+
