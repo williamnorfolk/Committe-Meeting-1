@@ -109,19 +109,35 @@ The objective of this research is to determine if _V. alginolyticus_ has the abi
 
 To confirm the viability of _V. alginolyticus_ attachment prior to the start of the controlled anomone feeding study, a pilot attachment study was conducted using culture-based methods to measure the attachment affinity of _V. alginolyticus_ to _Artemia_ (Fig 4). Laboratory-reared _Artemia_ cultures were hatched in sterile marine microcosms, seeded with _V. alginolyticus_ (~10^6^ and ~10^4^ bacteria per mL), and allowed to attach for a period of 6 hours. Following attachment, _Artemia_ were filter out of the microcosms, washed in artifical sea water (ASW), homogenized, and plated on to thiosulfate citrate bile-salts sucrose agar (TCBS) for the selective isolaion of _Vibrio_ spp. 
 
-```{r artemia culture, fig.cap="Figure 4: Marine microcosms with hatching Artemia for the pilot Vibrio alginolyticus attachment study", fig.hold='hold', fig.align='center',echo=FALSE}
-knitr::include_graphics("./artemia_culture.MOV")
+```{r artemia culture, fig.cap="Figure 4: Marine microcosms with hatching Artemia for the pilot Vibrio alginolyticus attachment study.", fig.hold='hold', out.height = "80%", out.width = "80%", fig.show='hold', fig.align='center',echo=FALSE}
+knitr::include_graphics("./test.png")
 ```
 
-The results of this study showed that culturable _Vibrio_ were recovered from homogenized _Artemia_ which suggests that _V. alginolyticus_ has the ability attach to _Artemia_ (Fig 5). Control cultures of unseeded _Artemia_ and seeded wash ASW (ASW used to remove any liquid suspended _Vibrio_) showed no bacterial growth indicating the homogenate-cultured _Vibrio_ was attached to the _Artemia_ included in the samples. 
+The results of this study showed that culturable _Vibrio_ were recoverable from homogenized _Artemia_ which suggests that _V. alginolyticus_ has the ability attach to _Artemia_ when exposed (Fig 5). Control cultures of unseeded _Artemia_ and seeded wash ASW (ASW used to remove any liquid suspended _Vibrio_) showed no bacterial growth indicating that any homogenate-cultured _Vibrio_ were attached to _Artemia_ from the seeded samples. These reuslts provide the first preliminary evidence that zooplanktonic attachment is not soley a characteristic of _V. cholerae_ and may be a commonplace characteristic within the taxon. 
 
-```{r artemia, fig.cap="Figure 4: Vibrio alginolyticus attachment pilot study", fig.hold='hold', out.height = "100%", out.width = "100%", fig.show='hold', fig.align='center',echo=FALSE}
-knitr::include_graphics("./zonoresults.jpg")
+
+```{r artemia, fig.cap="Figure 5: Vibrio alginolyticus attachment pilot study initial results. Left: Artemia homogenate seeded with 1mL of overnight V. alginolyticus culture. Right: Unseeded Artemia homogenate.", fig.hold='hold', out.height = "50%", out.width = "50%", fig.show='hold', fig.align='center',echo=FALSE}
+knitr::include_graphics(c("./vib_culture.png", "./control_culture.png"))
 ```
 
 ## Upcoming Work
 
+Based on the results of the initial pilot study, a larger culture-based _V. alginolyticus-Artemia_ attachment study is planned to confirm the results of the pilot work and optimize bacterial seeding concentrations. _Artemia_ cultures will be seeded with bacterial concentrations ranging from 10^8^ per mL to 10^2^ t
+
 ## Project Deliverables
+
+#### Research Goals
+1. Develop a working strain of GPF-tagged _V. alginolyticus_ for movement and transmission tracking.  
+2. Develop a set of marine microcosms desinged to house _Artemia_ spp. and _E. pallida_ for feeding and attachment studies.  
+3. Determine if _V. alginolyticus_ has the ability to attach to _Artemia_.  
+4. Determine if attached _V. alginolyticus_ can transmit to an apparently healthy host via ingestion of _Artemia_.  
+
+#### Proposed Publications 
+1. Foodborne transmission of _V. alginolyticus_.  
+_preliminary research in progress_    
+_target journals: PeerJ, Coral Reefs, or similar_  
+**Potential to seperate the publication into two seperate papers focusing on 1) _V. alginolyticus_ attachment and 2) Foodborne transmission of attached bacteria; depending on the results of the first stage of experimentation.
+
 
 # Chapter 3 {.tabset}
 ### Chemical characterization of _Vibrio alginolyticus_ and implications for disease transmission. 
