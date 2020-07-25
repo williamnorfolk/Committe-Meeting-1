@@ -13,7 +13,7 @@ output:
 
 **Welcome to the William Norfolk first committee meeting website!**   
 
-Due to the fact that COVId-19 has substantially limited our ability to meet in person, I thought it would be easier to generate a short informational website to provide some background and research updates prior to our Zoom meeting. The subsections below provide details about my program of study, dissertation research, and any additional projects I have or currently am contributing to. 
+Due to the fact that COVId-19 has substantially limited our ability to meet in person, I thought it would be easier to generate a short informational website to provide some background and research updates prior to our Zoom meeting. The subsections below provide details about my program of study, dissertation research, and any additional projects I have or currently am contributing to. Note all images can be enlarged by clicking on the picture to view a lightbox.
 
 # General Information
 
@@ -38,7 +38,7 @@ Responsible Conduct of Research | GRSC 8550 | Responsible Conduct of Research | 
 Proseminar EHS | EHSC 8050 | Proseminar EHS | 1 | Spring 2020 | A
 EHS Grad Seminar (3x semesters) | EHSC 8030 | EHS Grad Seminar|  1 (each semester) | Fall 2019, Spring 2020, Fall 2020 | SA, SA, _upcoming_
 Biostatistics | EPID/BIOS 8XXX | Modern Applied Data Analysis (EPID 8060E) | 3 | Fall 2019 | A
-Doctoral Research | EHSC 9300 | Doctoral Research | 3 (required) | All | SA
+Dissertation | EHSC 9300 | Dissertation | 3 | _final semester_ | _upcoming_
 Elective | EHSC 8XXX | Environmental Genomics (EHSC 8460) | 3 | Fall 2019 | A
 Elective | EHSC 8XXX | Adv Environmental Chemistry (EHSC 8650) | 4 | Spring 2020 | A
 Elective | _Any_ 8XXX | Computational Workshop (ECOL 8540) | 4 | Summer 2020 | _pending posting_
@@ -49,14 +49,15 @@ EHS Exit Seminar | EHSC 8150 | EHS Exit Seminar | 1 | _final semester_ | _upcomi
 * Total credits completed to date at 8000 Level: 18 (excluding Doctoral Research)  
 * Total credits completed to date at 7000 Level: 6  
 * Total doctoral research credits completed (to date): 30  
-* **Courses Remaining:** Advanced Topics EHS, EHS Graduate Seminar (1x semester), and EHS Exit Seminar  
-* **Anticipated semester for course completion:** Fall 2020 (excluding Exit Seminar)
+* **Courses Remaining:** Advanced Topics EHS, EHS Graduate Seminar (1x semester), Dissertation, and EHS Exit Seminar  
+* **Anticipated semester for remaining course completion:** Fall 2020 (excluding Exit Seminar and Dissertation)
 
 
 # Chapter 1 {.tabset}
-## Summary
+
 ### Abiotic tolerance characterization of _Vibrio alginolyticus_ and the implications for disease transmission.
 
+## Summary
 Anthropogenic climate change and habitat disruption have drastically altered the abiotic factors that mediate coastal ecosystems. Alterations to these abiotic factors can have cascading effects on the microbial ecology of the system and can promote the proliferation of potentially harmful bacterial species when optimal conditions are met. _Vibrio_ is a ubiquitous taxon of heterotrophic marine bacteria commonly associated with human and environmental (non-human) diseases. A highly adaptive genus, _Vibrio_ are known to respond synergistically to increases in water temperature and nutrient availability (particularly iron). Optimal growth conditions can create _Vibrio_ "blooms" and thus increase the risk of infection. _Vibrio alginolyticus_ is an emerging pathogen within the taxon known to cause human illness via wound/ear infection and environmental illness in filter feeding marine invertebrates (primarily associated with the shellfish industry). Research is needed to characterize the physiological limitations of _V. alginolyticus_ to better understand the abiotic conditions that are favorable to the development/transmission of disease. 
 
 This work aims to characterize the viable and optimal abiotic condition levels for _V. alginolyticus_ at a range of temperature, salinity, and nutrient availability. Characterizations will be measured _in situ_ using an optical density meter to construct bacterial growth curves and illustrate changes in the growth kinetics of _V. alginolyticus_ at the given condition. The results of these characterizations will be used to develop a working model of _V. alginolyticus_ disease risk.
@@ -77,7 +78,8 @@ knitr::include_graphics(c("./protometer.jpg", "./proto_dis.jpg"))
 ## Upcoming Work
 Following the completion of the evaluation study (tentatively beginning in August 2020), the prototype meter will be employed to measure the growth tolerance of _V. alginolyticus_ as described above. Temperature responses will be measured at 2$^\circ$ intervals from 20$^\circ$-40$^\circ$, salinity responses will be measured at 4ppt intervals from 0ppt-40ppt, and nutrient responses will be measured for minimal-enriched media (specific levels pending). Combinatory investigations of the optimal levels for each factor will also be measured to determine if additive responses are observed. From these data a semi-quantitative risk scale will be developed to classify the potential for _V. alginolyticus_ infection in relation to ambient abiotic conditions. 
 
-Pilot results (from an earlier version of the prototype) suggest the meter is sensitive enough to record subtle differences in bacterial growth kinetics in response to changing temperatures (Fig 3).
+Pilot results (from an earlier version of the prototype) suggest the meter is sensitive enough to record subtle differences in bacterial growth kinetics in response to changing temperatures (Fig 3).  
+
 ```{r combo curves, fig.cap="Figure 3: Pilot growth meter outputs for Vibrio alginolyticus at 30C, 35C and 38C temperatures. Plot one shows the raw data points generated from the meter and plot two shows the best fit for each scenario.", fig.hold='hold', out.height = "50%", out.width = "50%", fig.show='hold', echo=FALSE}
 knitr::include_graphics(c("combo1.png", "combo2.png"))
 ```
@@ -95,12 +97,53 @@ _Target journal: PeerJ_
 2. Physiological characterization of _V. alginolyticus_.
 
 
-# Chapter 2
-### Zooplankton-mediated transmission of _Vibrio alginolyticus_.
+# Chapter 2 {.tabset}
+### Foodborne transmission of _Vibrio alginolyticus_ via ingestion of colonized zooplankon.
 
-# Chapter 3
+## Summary
+As naturally occurring bacteria, _Vibrio_ are frequently implicated as the causative pathogens for various marine diseases. Numerous studies have shown that _Vibrio_ spp. act a secondary pathogens infecting exposed lesions in organisms ranging from humans to corals, however, few studies have attempted to characterize the mechanistic aquisition of pathogenic _Vibro_ into healthy host organisms. 
+
+## Progress Thus Far
+
+## Upcoming Work
+
+## Project Deliverables
+
+# Chapter 3 {.tabset}
 ### Chemical characterization of _Vibrio alginolyticus_ and implications for disease transmission. 
 
-# Additional Project Contributions
+## Summary
 
+## Progress Thus Far
 
+## Upcoming Work
+
+## Project Deliverables
+
+# Additional Project Contributions {.tabset}
+
+## O^3^ Disinfection
+
+In the early stages of the first COVID-19 lockdown the Lipp Lab and Glenn Lab (EHS) were recruited to conduct a breif evaluation study testing the efficacy of ozone disinfection of personal protective equipment for the elimination of SARS CoV-2. The objective of this work was to determine if a Zono (a commerically available ozone-based disinfection cabinet) was capable of reducing the viral load of comtaminated N95 masks to facilitate reuse in hospitals or other essential facilities. Small clippings of N95 mask material were seeded with laboratory grown MS2 coliphage (a surrogate for SARS CoV-2) and exposed to standard and heavy Zono treatment. Following treatment, the clippings were eluted into beef extract and plated using a soft agar overly method to obtain direct counts of MS2 plaque forming units (PFUs). The results suggest that ozone disinfection is capable of reducing the viral load of N95 masks and could potentially be a viable option for the steralization and reuse of PPE (Fig #). 
+
+**Project Notes**  
+Research Note Manuscript: _in progress_  
+Target Journals: Frontiers in Microbiology, BMC Microbiology, and Clinical Microbiology and Infection  
+
+```{r zono, fig.cap="Figure #: Viral burden of Zono-treated N95 mask components.", fig.hold='hold', out.height = "100%", out.width = "100%", fig.show='hold', fig.align='center',echo=FALSE}
+knitr::include_graphics("./zonoresults.jpg")
+```
+
+## COVID Working Group
+
+In April I joined the Center for Infectious Disease and Ecology's (CEID) coronavirus working group to assist with the development data visualiztions for the evolving COVID-19 pandemic. To date I have contributed (and continue to update) to the design and coding of the CEID [COVID tracker](https://www.covid19.uga.edu/tracker.html). Currently I am working to develop a similar R-based shiny application for the visualization of forecast model data (to be released in the near future). 
+
+## COVID Wastewater
+
+Currently, the Lipp Lab is engaged in an ongoing COVID monitoring project designed to assess the population-level burden of the disease using wastewater monitoring. The objective of this research is to design and evaluate the methods for viral concntration, extraction, and quantification to determine the viral shedding patterns of Athens, GA. Wastewater influent composite samples are collected weekly from the North Oconee, Middle Oconee, and Cedar Creek water reclimation facilities, aliquotted/concentrated for viral extraction, and quantified using RT-qPCR. Thus far we have successfully developed a pipeline for the extraction and quantification of SARS CoV-2 in wastewater and intend to utilize these methods as a component of a larger Athens-based COVID study to progress over the course of the upcoming year. 
+
+## FDA Small Farms
+
+To supplant my summer funding I have 
+
+# Funding and Awards
