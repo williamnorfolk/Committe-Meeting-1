@@ -101,7 +101,7 @@ _Target journal: PeerJ_
 ### Foodborne transmission of _Vibrio alginolyticus_ via ingestion of colonized zooplankon.
 
 ## Summary
-As naturally occurring bacteria, _Vibrio_ are frequently implicated as the causative pathogens for various marine diseases. Numerous studies have shown that _Vibrio_ spp. act a secondary pathogens infecting exposed lesions in organisms ranging from humans to corals, however, few studies have attempted to characterize the mechanistic aquisition of pathogenic _Vibro_ into healthy host organisms. 
+As naturally occurring bacteria, _Vibrio_ are frequently implicated as the causative pathogens for various marine diseases. Numerous studies have shown that _Vibrio_ spp. act as oppertunistic secondary pathogens infecting exposed lesions in organisms ranging from humans to corals, however, few studies have attempted to characterize the mechanistic aquisition of pathogenic _Vibro_ into healthy host organisms. It is known that _Vibrio cholerae_ prefferentially attach to the exoskeletons of chitinous zooplankton and can transmit to a healthy host via subsequent ingestion
 
 ## Progress Thus Far
 
