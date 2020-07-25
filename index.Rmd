@@ -101,9 +101,23 @@ _Target journal: PeerJ_
 ### Foodborne transmission of _Vibrio alginolyticus_ via ingestion of colonized zooplankon.
 
 ## Summary
-As naturally occurring bacteria, _Vibrio_ are frequently implicated as the causative pathogens for various marine diseases. Numerous studies have shown that _Vibrio_ spp. act as oppertunistic secondary pathogens infecting exposed lesions in organisms ranging from humans to corals, however, few studies have attempted to characterize the mechanistic aquisition of pathogenic _Vibro_ into healthy host organisms. It is known that _Vibrio cholerae_ prefferentially attach to the exoskeletons of chitinous zooplankton and can transmit to a healthy host via subsequent ingestion
+As naturally occurring bacteria, _Vibrio_ are frequently implicated as the causative pathogens for various marine diseases. Numerous studies have shown that _Vibrio_ spp. act as oppertunistic secondary pathogens infecting exposed lesions in organisms ranging from humans to corals. However, few studies have attempted to characterize the mechanistic aquisition of pathogenic _Vibro_ into healthy host organisms. It is known that _Vibrio cholerae_ prefferentially attach to the exoskeletons of chitinous zooplankton for shelter and to metabolize chitin. When ingested, _V. cholerae_-bearing zooplankton can transmit pathogenic dose of the bacterium to an otherwise healthy host. It has been hypothesized that this transmission pathway may be characteristic to all members of the family _Vibrionaceae_ however further research is needed to confirm the behavior in other _Vibrio_ spp. 
+
+The objective of this research is to determine if _V. alginolyticus_ has the ability to 1) attach to chitinious zooplankton and 2) transmit to a healthy host via ingestion. To track movement and transmission, a green flourescent protein-tagged (GFP) strain _V. alginolyticus_ will be cultivated from in-house _Vibrio_ stocks and a GFP-tagged strain of _E.coli_ (curtousy of Dr. Eric Stabb) using a tri-parental mating assay. Brine shrimp _Artemia_ spp. will be cultivated _in situ_ and seeded with an overnight culture of GFP-tagged _V. alginolyticus_ to promote bacterial attachment and subsequently fed to pale sea anemones _(Exiaptasia pallida)_. Following ingestion, _E. pallida_ samples will be culled and dissected to isolate the oral disk/tentacles and gastrovascular cavities. Dissections will be homogenized and viewed using flourescent microscopy to confirm the presence of GFP-tagged _V. alginolyticus_. _Vibrio_ concentrations will be quantified using culture-based plate count methods as well as quantative polymerase chain reaction (qPCR) to determine the bacterial burden of each dissected subsection. 
 
 ## Progress Thus Far
+
+To confirm the viability of _V. alginolyticus_ attachment prior to the start of the controlled anomone feeding study, a pilot attachment study was conducted using culture-based methods to measure the attachment affinity of _V. alginolyticus_ to _Artemia_ (Fig 4). Laboratory-reared _Artemia_ cultures were hatched in sterile marine microcosms, seeded with _V. alginolyticus_ (~10^6^ and ~10^4^ bacteria per mL), and allowed to attach for a period of 6 hours. Following attachment, _Artemia_ were filter out of the microcosms, washed in artifical sea water (ASW), homogenized, and plated on to thiosulfate citrate bile-salts sucrose agar (TCBS) for the selective isolaion of _Vibrio_ spp. 
+
+```{r artemia culture, fig.cap="Figure 4: Marine microcosms with hatching Artemia for the pilot Vibrio alginolyticus attachment study", fig.hold='hold', fig.align='center',echo=FALSE}
+knitr::include_graphics("./artemia_culture.MOV")
+```
+
+The results of this study showed that culturable _Vibrio_ were recovered from homogenized _Artemia_ which suggests that _V. alginolyticus_ has the ability attach to _Artemia_ (Fig 5). Control cultures of unseeded _Artemia_ and seeded wash ASW (ASW used to remove any liquid suspended _Vibrio_) showed no bacterial growth indicating the homogenate-cultured _Vibrio_ was attached to the _Artemia_ included in the samples. 
+
+```{r artemia, fig.cap="Figure 4: Vibrio alginolyticus attachment pilot study", fig.hold='hold', out.height = "100%", out.width = "100%", fig.show='hold', fig.align='center',echo=FALSE}
+knitr::include_graphics("./zonoresults.jpg")
+```
 
 ## Upcoming Work
 
@@ -144,6 +158,8 @@ Currently, the Lipp Lab is engaged in an ongoing COVID monitoring project design
 
 ## FDA Small Farms
 
-To supplant my summer funding I have 
+To supplant my summer fundi
 
 # Funding and Awards
+
+# Committee Meeting Agenda 
