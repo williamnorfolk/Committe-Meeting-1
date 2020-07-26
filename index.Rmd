@@ -57,7 +57,7 @@ EHS Exit Seminar | EHSC 8150 | EHS Exit Seminar | 1 | _final semester_ | _upcomi
 
 ### Abiotic tolerance characterization of _Vibrio alginolyticus_ and the implications for disease transmission.
 
-## Summary
+## Summary/Motivation
 Anthropogenic climate change and habitat disruption have drastically altered the abiotic factors that mediate coastal ecosystems. Alterations to these abiotic factors can have cascading effects on the microbial ecology of the system and can promote the proliferation of potentially harmful bacterial species when optimal conditions are met. _Vibrio_ is a ubiquitous taxon of heterotrophic marine bacteria commonly associated with human and environmental (non-human) diseases. A highly adaptive genus, _Vibrio_ are known to respond synergistically to increases in water temperature and nutrient availability (particularly iron). Optimal growth conditions can create _Vibrio_ "blooms" and thus increase the risk of infection. _Vibrio alginolyticus_ is an emerging pathogen within the taxon known to cause human illness via wound/ear infection and environmental illness in filter feeding marine invertebrates (primarily associated with the shellfish industry). Research is needed to characterize the physiological limitations of _V. alginolyticus_ to better understand the abiotic conditions that are favorable to the development/transmission of disease. 
 
 This work aims to characterize the viable and optimal abiotic condition levels for _V. alginolyticus_ at a range of temperature, salinity, and nutrient availability. Characterizations will be measured _in situ_ using an optical density meter to construct bacterial growth curves and illustrate changes in the growth kinetics of _V. alginolyticus_ at the given condition. The results of these characterizations will be used to develop a working model of _V. alginolyticus_ disease risk.
@@ -100,7 +100,7 @@ _Target journal: PeerJ_
 # Chapter 2 {.tabset}
 ### Foodborne transmission of _Vibrio alginolyticus_ via ingestion of colonized zooplankon.
 
-## Summary
+## Summary/Motivation
 As naturally occurring bacteria, _Vibrio_ are frequently implicated as the causative pathogens for various marine diseases. Numerous studies have shown that _Vibrio_ spp. act as oppertunistic secondary pathogens infecting exposed lesions in organisms ranging from humans to corals. However, few studies have attempted to characterize the mechanistic aquisition of pathogenic _Vibro_ into healthy host organisms. It is known that _Vibrio cholerae_ prefferentially attach to the exoskeletons of chitinous zooplankton for shelter and to metabolize chitin. When ingested, _V. cholerae_-bearing zooplankton can transmit pathogenic dose of the bacterium to an otherwise healthy host. It has been hypothesized that this transmission pathway may be characteristic to all members of the family _Vibrionaceae_ however further research is needed to confirm the behavior in other _Vibrio_ spp. 
 
 The objective of this research is to determine if _V. alginolyticus_ has the ability to 1) attach to chitinious zooplankton and 2) transmit to a healthy host via ingestion. To track movement and transmission, a green flourescent protein-tagged (GFP) strain _V. alginolyticus_ will be cultivated from in-house _Vibrio_ stocks and a GFP-tagged strain of _E.coli_ (curtousy of Dr. Eric Stabb) using a tri-parental mating assay. Brine shrimp _Artemia_ spp. will be cultivated _in situ_ and seeded with an overnight culture of GFP-tagged _V. alginolyticus_ to promote bacterial attachment and subsequently fed to pale sea anemones _(Exiaptasia pallida)_. Following ingestion, _E. pallida_ samples will be culled and dissected to isolate the oral disk/tentacles and gastrovascular cavities. Dissections will be homogenized and viewed using flourescent microscopy to confirm the presence of GFP-tagged _V. alginolyticus_. _Vibrio_ concentrations will be quantified using culture-based plate count methods as well as quantative polymerase chain reaction (qPCR) to determine the bacterial burden of each dissected subsection. 
@@ -122,7 +122,11 @@ knitr::include_graphics(c("./vib_culture.png", "./control_culture.png"))
 
 ## Upcoming Work
 
-Based on the results of the initial pilot study, a larger culture-based _V. alginolyticus-Artemia_ attachment study is planned to confirm the results of the pilot work and optimize bacterial seeding concentrations. _Artemia_ cultures will be seeded with bacterial concentrations ranging from 10^8^ per mL to 10^2^ t
+Based on the results of the initial pilot study, a larger culture-based _V. alginolyticus-Artemia_ attachment study is planned to confirm the results of the pilot work and optimize bacterial seeding concentrations. _Artemia_ cultures will be seeded with bacterial concentrations ranging from 10^8^ per mL to 10^2^, homogenized, and quantified on TCBS plates to determine the optimal concentration for inoculation. Pending the arrival of the GFP-tagged _E. coli_ (to be used for plasmid transfer) an additional microscopy-based pilot study will be conducted in concert with culture work to confirm the attachment of _V. alginolyticus_ via flourescent tags. 
+
+Following the completion of attachment experiments, a controlled feeding study will be used to confirm foodborne transmission of _V. alginolyticus_. _E. pallida_ samples will be transfered to individual microcosms and fed Artemia bearing GFP-tagged _V. alginolyticus_. Feeding exposure is planned to be a simple water introduction of the _Artemia_ to the microcosm, however, modifications may be used to promote ingestion if the anomones fail to feed. Following a 12-24 hour feeding exposure (varying time replicates will be tested with seperate microcosms) anomones will be collected from the microcosms and 1) kept live/intact for whole organism viewing via inverted flourescent microscopy and 2) culled and dissected for homogenization and subsequent viewing using traditional fourescent microscopy. 
+
+Additional sub-projects may stem from the results of the attachment and/or feeding study on an as-needed basis to investigate different ecological attributes of the association between _V. alginolyticus_ and zooplankton.
 
 ## Project Deliverables
 
@@ -140,13 +144,23 @@ _target journals: PeerJ, Coral Reefs, or similar_
 
 
 # Chapter 3 {.tabset}
-### Chemical characterization of _Vibrio alginolyticus_ and implications for disease transmission. 
+### Chemical investigation and characterization of _Vibrio alginolyticus_ and the implications for disease transmission. 
 
-## Summary
+## Summary/Motivation
+
+A proper understanding of bacterial physioloogy is imperative to the successful managment of pathogenic species. The recent increases in _V. alginolyticus_ infection prevelance warrents further investingation into the bacterium to determine pathogenicity traits. Despite being one of the most abundant species of _Vibrio_, few studies have investigated the specific physiological characteristics of _V. alginolyticus_ and thus there is a needed for baseline level data on the bacterium. 
+
+Laboratory observations have indicated that certian strains of _V. alginolyticus_ secrete a thick mucoid extracellular matrix that we hypothesize may serve as an adaptive characteristic. 
 
 ## Progress Thus Far
 
+_V. alginolyticus_ collection, isolation, and culture-based qualitative characterization has been previously completed by fellow members of the Lipp Lab. Frozen stocks of isolates of interest have been prepared and stored at -80$^\circ$C for future usage. 
+
+The specific methods and objectives of this experiment are currently in a planning stage. We hope to begin experimental desing and/or pilot research in the Fall 2020 semester.
+
 ## Upcoming Work
+
+
 
 ## Project Deliverables
 
@@ -166,7 +180,7 @@ knitr::include_graphics("./zonoresults.jpg")
 
 ## COVID Working Group
 
-In April I joined the Center for Infectious Disease and Ecology's (CEID) coronavirus working group to assist with the development data visualiztions for the evolving COVID-19 pandemic. To date I have contributed (and continue to update) to the design and coding of the CEID [COVID tracker](https://www.covid19.uga.edu/tracker.html). Currently I am working to develop a similar R-based shiny application for the visualization of forecast model data (to be released in the near future). 
+In April I joined the Center for the Ecology of Infectious Diseases (CEID) coronavirus working group to assist with the development data visualiztions for the evolving COVID-19 pandemic. To date I have contributed (and continue to update) to the design and coding of the CEID [COVID tracker](https://www.covid19.uga.edu/tracker.html). Currently I am working to develop a similar R-based shiny application for the visualization of forecast model data (to be released in the near future). 
 
 ## COVID Wastewater
 
@@ -174,8 +188,21 @@ Currently, the Lipp Lab is engaged in an ongoing COVID monitoring project design
 
 ## FDA Small Farms
 
-To supplant my summer fundi
+Throughout the summer 2020 semester I have been working to furfill the requirements of a previously funded FDA grant to investingate the presence and source of pathogenic microorganisms on small organic farms in Georgia. My research consists of a monthly field sampling of local farms to collect, water (well, irrigation, and surface), soil, air, and produce. All samples are screened for the presence of _Salmonella_, _Listeria_, Shiga toxin-producing _E. coli_ (STEC), enteric viruses, and _Cyclospora_. Microbes are isolated using a combination of selective filtration (modifed Moore swabs and dead end ultrafiltration), culture-based microbiological techniques, and molecular analyses. 
 
-# Funding and Awards
+Due to laboratory limitations and COVID disruption my work on this project consists of sample collection, filtration, pre-processing/storage, and culture-based confirmation of _Salmonella_ and _Listeria_. All remaining samples are sent to the FDA for processing or concentrated and stored frozen until a later date. 
+
+```{r okra, fig.cap="Figure #: Okra fields from a participating organic farm .", fig.hold='hold', out.height = "80%", out.width = "80%", fig.show='hold', fig.align='center',echo=FALSE}
+knitr::include_graphics("./okra.png")
+```
+
+# Funding and Awards 
+
+Name | Semester | Status | Amount Received
+------------- | ------------- | ------------- | ------------- 
+John Scarno Memorial Scholarship | Fall 2019 | Not Funded | NA
+UGA IIRG | Spring 2020 | Funded | $2,000
+EHS Graduate Research Showcase | Spring 2020 | 3^rd^ Place | $300
+Orlin K. Fletcher Memorial Scholarship | Summer 2020 | Pending | Pending
 
 # Committee Meeting Agenda 
