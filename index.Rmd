@@ -148,21 +148,27 @@ _target journals: PeerJ, Coral Reefs, or similar_
 
 ## Summary/Motivation
 
-A proper understanding of bacterial physioloogy is imperative to the successful managment of pathogenic species. The recent increases in _V. alginolyticus_ infection prevelance warrents further investingation into the bacterium to determine pathogenicity traits. Despite being one of the most abundant species of _Vibrio_, few studies have investigated the specific physiological characteristics of _V. alginolyticus_ and thus there is a needed for baseline level data on the bacterium. 
+At a time where emerging pathogens are at the forefront of attention, a proper understanding of bacterial physiology is imperative to the successful managment of novel pathogenic species. The recent increases in _V. alginolyticus_ infection prevelance warrents further investingation into the bacterium to determine pathogenicity traits and adaptive mechannisms. Despite being one of the most abundant species of _Vibrio_, few studies have investigated the specific physiological characteristics of _V. alginolyticus_ and thus there is a needed for baseline level data on the bacterium. 
 
-Laboratory observations have indicated that certian strains of _V. alginolyticus_ secrete a thick mucoid extracellular matrix that we hypothesize may serve as an adaptive characteristic. 
+Laboratory observations (Lipp Lab) have indicated that certian strains of _V. alginolyticus_ secrete a thick mucoid extracellular polymeric substance (EPS) that we hypothesize may serve as an adaptive trait in the environment. It is unknown if these EPSs are survival-based, virulence indicators, or representative of another unkown trait of the bacterium. Characterization of these EPSs would provide baseline data on the physiological and adaptive responses of the bacterium in the envrionment. Furthermore, it is known that _Vibrio_ rapidly respond to increased nutrient availabilty in the environment exhibiting a "boom-bust cycle" of growth and decline. A chemical characterization of the microbial volitale organic compounds (MVOCs) produced during log phase growth of _V. alginolyticus_ would provide novel insight into the metabolic characteristics of the bacterium and could be used to compare metabolic differences at high vurses low nurient availability. 
 
 ## Progress Thus Far
 
 _V. alginolyticus_ collection, isolation, and culture-based qualitative characterization has been previously completed by fellow members of the Lipp Lab. Frozen stocks of isolates of interest have been prepared and stored at -80$^\circ$C for future usage. 
 
-The specific methods and objectives of this experiment are currently in a planning stage. We hope to begin experimental desing and/or pilot research in the Fall 2020 semester.
-
 ## Upcoming Work
 
-
+The specific methods and objectives of this experiment are currently in a planning stage. We hope to begin experimental design and/or pilot research in the Fall 2020 semester.
 
 ## Project Deliverables
+
+#### Research Goals
+1. A baseline chemical characterization of _V. alginolyticus_ EPSs and MVOCs.  
+_Due to the exploratory nature of this research, it is likely that additional research objectives will be identified as preliminary data is collected._  
+
+#### Proposed Publications 
+1. Chemical characterization of _V. alginolyticus_ extracellular polymeric substances and microbial volitale organic compounds.  
+_The specific objectives of this proposed publication are subject to changed based on the results of preliminary investigaitons._ 
 
 # Additional Project Contributions {.tabset}
 
