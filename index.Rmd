@@ -156,8 +156,8 @@ Laboratory observations (Lipp Lab) have indicated that certain strains of _V. al
 
 _V. alginolyticus_ collection, isolation, and culture-based qualitative characterization has been previously completed by fellow members of the Lipp Lab. Frozen stocks of isolates of interest have been prepared and stored at -80$^\circ$C for future usage. 
 
-```{r valg_pic, fig.cap=".", fig.hold='hold', out.height = "80%", out.width = "80%", fig.show='hold', fig.align='center',echo=FALSE}
-#knitr::include_graphics("./test.png")
+```{r valg_pic, fig.cap="Fig 6: V. alginolyticus isolate JW16-551.", fig.hold='hold', out.height = "60%", out.width = "60%", fig.show='hold', fig.align='center',echo=FALSE}
+knitr::include_graphics("./vib_551.png")
 ```
 
 ## Upcoming Work
@@ -178,21 +178,21 @@ _The specific objectives of this proposed publication are subject to changed bas
 
 ## O^3^ Disinfection
 
-In the early stages of the first COVID-19 lockdown the Lipp Lab and Glenn Lab (EHS) were recruited to conduct a brief evaluation study testing the efficacy of ozone disinfection of personal protective equipment for the elimination of SARS CoV-2. The objective of this work was to determine if a Zono (a commercially available ozone-based disinfection cabinet) was capable of reducing the viral load of contaminated N95 masks to facilitate reuse in hospitals or other essential facilities. Small clippings of N95 mask material were seeded with laboratory grown MS2 coliphage (a surrogate for SARS CoV-2) and exposed to standard and heavy Zono O^3^ treatment. Following treatment, the clippings were eluted into beef extract and plated using a soft agar overly method to obtain direct counts of MS2 plaque forming units (PFUs). The results suggest that ozone disinfection is capable of reducing the viral load of N95 masks and could potentially be a viable option for the sterilization and reuse of PPE (Fig 6). 
+In the early stages of the first COVID-19 lockdown the Lipp Lab and Glenn Lab (EHS) were recruited to conduct a brief evaluation study testing the efficacy of ozone disinfection of personal protective equipment for the elimination of SARS CoV-2. The objective of this work was to determine if a Zono (a commercially available ozone-based disinfection cabinet) was capable of reducing the viral load of contaminated N95 masks to facilitate reuse in hospitals or other essential facilities. Small clippings of N95 mask material were seeded with laboratory grown MS2 coliphage (a surrogate for SARS CoV-2) and exposed to standard and heavy Zono O^3^ treatment. Following treatment, the clippings were eluted into beef extract and plated using a soft agar overly method to obtain direct counts of MS2 plaque forming units (PFUs). The results suggest that ozone disinfection is capable of reducing the viral load of N95 masks and could potentially be a viable option for the sterilization and reuse of PPE (Fig 7). 
 
 **Project Notes**  
 Research Note Manuscript: _in progress_  
 Target Journals: Frontiers in Microbiology, BMC Microbiology, and Clinical Microbiology and Infection  
 
-```{r zono, fig.cap="Figure 6: Viral burden of Zono-treated N95 mask components.", fig.hold='hold', out.height = "100%", out.width = "100%", fig.show='hold', fig.align='center',echo=FALSE}
+```{r zono, fig.cap="Figure 7: Viral burden of Zono-treated N95 mask components.", fig.hold='hold', out.height = "100%", out.width = "100%", fig.show='hold', fig.align='center',echo=FALSE}
 knitr::include_graphics("./zonoresults.jpg")
 ```
 
 ## COVID Working Group
 
-In April I joined the Center for the Ecology of Infectious Diseases (CEID) coronavirus working group to assist with the development of data visualizations for the evolving COVID-19 pandemic (Fig 7). To date I have contributed to (and continue to update) the design and coding of the CEID COVID [COVID tracker](https://www.covid19.uga.edu/tracker.html). Currently I am working to develop a similar R-based shiny application for the visualization of forecast model data to be released in the near future following peer review. 
+In April I joined the Center for the Ecology of Infectious Diseases (CEID) coronavirus working group to assist with the development of data visualizations for the evolving COVID-19 pandemic (Fig 8). To date I have contributed to (and continue to update) the design and coding of the CEID COVID [COVID tracker](https://www.covid19.uga.edu/tracker.html). Currently I am working to develop a similar R-based shiny application for the visualization of forecast model data to be released in the near future following peer review. 
 
-```{r ceid, fig.cap="Figure 7: Non-reactive image capture from the CEID COVID-19 tracker comparing COVID-19 daily cases for Clarke, DeKalb, and Gwinnett counties.", fig.hold='hold', out.height = "80%", out.width = "80%", fig.show='hold', fig.align='center',echo=FALSE}
+```{r ceid, fig.cap="Figure 8: Non-reactive image capture from the CEID COVID-19 tracker comparing COVID-19 daily cases for Clarke, DeKalb, and Gwinnett counties.", fig.hold='hold', out.height = "80%", out.width = "80%", fig.show='hold', fig.align='center',echo=FALSE}
 knitr::include_graphics("./ceid_plot.png")
 ```
 
@@ -206,7 +206,7 @@ Throughout the summer 2020 semester I have been working to fulfill the requireme
 
 Due to laboratory limitations and COVID disruption, my work on this project consists of sample collection, filtration, pre-processing/storage, and culture-based confirmation of _Salmonella_ and _Listeria_. All remaining samples are sent to the FDA for processing or are concentrated and stored frozen until a later date. 
 
-```{r okra, fig.cap="Figure 8: Okra fields from a participating organic farm .", fig.hold='hold', out.height = "80%", out.width = "80%", fig.show='hold', fig.align='center',echo=FALSE}
+```{r okra, fig.cap="Figure 9: Okra fields from a participating organic farm .", fig.hold='hold', out.height = "80%", out.width = "80%", fig.show='hold', fig.align='center',echo=FALSE}
 knitr::include_graphics("./okra.png")
 ```
 
