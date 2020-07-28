@@ -190,7 +190,7 @@ knitr::include_graphics("./zonoresults.jpg")
 
 ## COVID Working Group
 
-In April I joined the Center for the Ecology of Infectious Diseases (CEID) coronavirus working group to assist with the development of data visualizations for the evolving COVID-19 pandemic (Fig 8). To date I have contributed to (and continue to update) the design and coding of the CEID COVID [COVID tracker](https://www.covid19.uga.edu/tracker.html). Currently I am working to develop a similar R-based shiny application for the visualization of forecast model data to be released in the near future following peer review. 
+In April I joined the Center for the Ecology of Infectious Diseases (CEID) coronavirus working group to assist with the development of data visualizations for the evolving COVID-19 pandemic (Fig 8). To date I have contributed to (and continue to update) the design and coding of the CEID [COVID tracker](https://www.covid19.uga.edu/tracker.html). Currently I am working to develop a similar R-based shiny application for the visualization of forecast model data to be released in the near future following peer review. 
 
 ```{r ceid, fig.cap="Figure 8: Non-reactive image capture from the CEID COVID-19 tracker comparing COVID-19 daily cases for Clarke, DeKalb, and Gwinnett counties.", fig.hold='hold', out.height = "80%", out.width = "80%", fig.show='hold', fig.align='center',echo=FALSE}
 knitr::include_graphics("./ceid_plot.png")
